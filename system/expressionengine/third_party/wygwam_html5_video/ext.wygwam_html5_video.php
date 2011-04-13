@@ -15,7 +15,7 @@ class Wygwam_html5_video_ext {
   var $version        = '1.0';
   var $description    = 'Adds the HTML5 video plugin to all toolbars.';
   var $settings_exist = 'n';
-  var $docs_url       = '';
+  var $docs_url       = 'http://github.com/timkelty/wygwam_html5_video/';
 
   /**
    * Class Constructor
